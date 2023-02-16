@@ -34,3 +34,5 @@ deactivate
 Flashing the LED found at pin 13 using Python, Arduino IDE and a Arduino UNO microcontroller. This project was done using the tutorials on OpenCV.
 ## Potentiometer_Reading
 A potentiometers output ADC values are read using Python, Arduino IDE and a Arduino UNO microcontroller. It is then shown visually on a image by changing the dimensions of a elipse. This project was done using the tutorials on OpenCV.
+## Ultrasonic_Sensor
+A ultrasonic sensor is used to sense distances between objects using output ADC values which are read using Arduino IDE and a Arduino UNO microcontroller. 
